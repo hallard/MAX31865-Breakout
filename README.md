@@ -22,9 +22,9 @@ When I created the MAX31865 breakout board, I needed a library to be able to rea
 - you can find the forked libray and sample code [here][3]
 
 ##Action
-<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-temp.png" alt="No breakout board connected" width="30%" height="30%">&nbsp;
-<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-nortd.png" alt="No sensor connected" width="30%" height="30%">&nbsp;
-<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-noboard.png" alt="No breakout board connected" width="30%" height="30%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-temp.jpg" alt="No breakout board connected" width="30%" height="30%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-nortd.jpg" alt="No sensor connected" width="30%" height="30%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-noboard.jpg" alt="No breakout board connected" width="30%" height="30%">&nbsp;
 
 ##License
 
