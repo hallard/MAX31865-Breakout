@@ -10,12 +10,12 @@ Detailed Description
 Everything is documented on this dedicated [post][1]
 
 ### Schematic  
-![schematic](https://raw.github.com/hallard/MAX31865-Breakout/master/MAX31865-bot-sch.png)  
+![schematic](https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/MAX31865-sch.png)  
 
 ### Boards  
-<img src="https://raw.github.com/hallard/MAX31865-Breakout/master/MAX31865-brd.png" alt="board V1.0" width="30%" height="30%">&nbsp;
-<img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/MAX31865-top.png" alt="top V1.0" width="30%" height="30%">&nbsp;
-<img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/MAX31865-bot.png" alt="bottom V1.0" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/MAX31865-brd.png" alt="board V1.0" width="30%" height="30%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/MAX31865-top.png" alt="top V1.0" width="30%" height="30%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/MAX31865-bot.png" alt="bottom V1.0" width="30%" height="30%">
 
 ##Library
 When I created the MAX31865 breakout board, I needed a library to be able to read results. I then found one which was working file. I just added on it some features I needed, thank to Original library author olewolf.
