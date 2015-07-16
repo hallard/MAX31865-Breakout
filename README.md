@@ -22,12 +22,13 @@ When I created the MAX31865 breakout board, I needed a library to be able to rea
 - you can find the forked libray and sample code [here][3]
 
 ##Action
-When all is fine
+When all is fine    
 <img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-temp.jpg" alt="No breakout board connected" width="50%" height="30%">
 
-and when there is a problem
+and when there is a problem    
 <img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-nortd.jpg" alt="No sensor connected" width="50%" height="50%">&nbsp;
-<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-noboard.jpg" alt="No breakout board connected" width="40%" height="40%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/MAX31865-Breakout/master/pictures/max31865-oled-noboard.jpg" alt="No breakout board connected" width="40%" height="40%">
+    
 
 ##License
 
